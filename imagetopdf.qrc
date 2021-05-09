@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/itp">
+        <file>remove.png</file>
+        <file>folder.png</file>
+        <file>picture.png</file>
+        <file>down-arrows.png</file>
+        <file>up-arrows.png</file>
+        <file>eraser.png</file>
+        <file>solutions.png</file>
+        <file>convert.png</file>
+    </qresource>
+</RCC>
